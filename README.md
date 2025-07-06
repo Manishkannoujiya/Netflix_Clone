@@ -20,3 +20,4 @@ Consistent and intuitive user experience
 Overall, this Netflix clone project serves as an excellent exercise to build a robust, scalable, and visually appealing web application while strengthening proficiency in HTML, CSS, and React.js.
 Here is the snapshot of my work-
 ![](https://github.com/Manishkannoujiya/Netflix_Clone/blob/main/Screenshot%202025-07-06%20133608.png)
+![](https://github.com/Manishkannoujiya/Netflix_Clone/blob/main/Screenshot%202025-07-06%20134821.png)
