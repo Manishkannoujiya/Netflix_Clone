@@ -1,7 +1,7 @@
 // replace below firebase config with your own
 
 const firebaseConfig = {
-  apiKey: "AIzaSyChOvVsrZlwECCbsBCwU6ax64Y-LmPUBIc",
+  apiKey: " ",
   authDomain: "netflix-clone-929db.firebaseapp.com",
   projectId: "netflix-clone-929db",
   storageBucket: "netflix-clone-929db.firebasestorage.app",
