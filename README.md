@@ -1,5 +1,5 @@
 # NETFLIX_CLONE
-![netflix_logo]()
+![netflix_logo](https://github.com/Manishkannoujiya/Netflix_Clone/blob/main/BrandAssets_Logos_01-Wordmark%20(1).jpg)
 ## Overview
 The objective of this project is to build a functional front-end clone of Netflix, the popular video streaming platform, using modern web technologies. By leveraging HTML and CSS, the project establishes a visually appealing and responsive user interface that closely resembles the design of Netflix. The styling will include elements such as a dynamic landing page, feature-rich movie cards, responsive navigation menus, and category-based layouts.
 
